@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad2627c1-cd42-4df5-94bb-d02237327866" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ba4X0Zrz6ZnMcXl9H6tUjHjR5z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EightEdge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EightEdge" />
+      <module name="AlgorithmParactice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EightEdge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad2627c1-cd42-4df5-94bb-d02237327866" name="Default Changelist" comment="" />
+      <created>1588856905917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588856905917</updated>
+      <workItem from="1588856907325" duration="8800000" />
+      <workItem from="1588920321866" duration="1746000" />
+      <workItem from="1589007984951" duration="284000" />
+      <workItem from="1589099265339" duration="590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1157" y="402" key="#xdebugger.evaluate" timestamp="1588866827827">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1157" y="402" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1588866827827" />
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom" timestamp="1588869485166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1588862333292" />
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588869485166" />
+    <state width="2517" height="491" key="GridCell.Tab.0.center" timestamp="1588869485166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1588862333292" />
+    <state width="2517" height="491" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588869485166" />
+    <state width="2517" height="491" key="GridCell.Tab.0.left" timestamp="1588869485166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1588862333292" />
+    <state width="2517" height="491" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588869485166" />
+    <state width="2517" height="491" key="GridCell.Tab.0.right" timestamp="1588869485166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1588862333292" />
+    <state width="2517" height="491" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588869485166" />
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom" timestamp="1588869485166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1588859394231" />
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588869485166" />
+    <state width="2517" height="491" key="GridCell.Tab.1.center" timestamp="1588869485166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1588859394231" />
+    <state width="2517" height="491" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588869485166" />
+    <state width="2517" height="491" key="GridCell.Tab.1.left" timestamp="1588869485166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1588859394231" />
+    <state width="2517" height="491" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588869485166" />
+    <state width="2517" height="491" key="GridCell.Tab.1.right" timestamp="1588869485166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1588859394231" />
+    <state width="2517" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588869485166" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EightEdge.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
